@@ -58,4 +58,4 @@ Description: This function reads the content of a text file given its file path.
 Saved file: read_text_file.py
 ```
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MarshallOkafor/AI-agent/blob/master/LICENSE) file for details.
